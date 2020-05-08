@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MardDown示例文章
+title: MardDown排版示例文章
 slug: typography
 date: 2019-12-18 16:50
 status: publish

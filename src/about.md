@@ -17,4 +17,5 @@ tags:
 
 ## Contact
 
-Email: songdiancan@gmail.com
+Email: songdiancan#gmail.com (replace # with @)
+
