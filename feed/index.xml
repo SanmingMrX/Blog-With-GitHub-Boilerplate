@@ -1,7 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只听一种声音，中国好声音。</title><link>/</link><description>凡我所爱者，必如热血中的病毒，在人群中感染流布。--by黄章晋</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/sanmingmrx/sanmingmrx.github.io@master//logo.png</url><title>只听一种声音，中国好声音。</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 08 May 2020 08:48:52 +0806</lastBuildDate><pubDate>Fri, 08 May 2020 08:48:52 +0806</pubDate><item><title>我的第一篇文章</title><link>/archives/my-first-awesome-post/</link><description>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只听一种声音，中国好声音。</title><link>/</link><description>凡我所爱者，必如热血中的病毒，在人群中感染流布。--by黄章晋</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/sanmingmrx/sanmingmrx.github.io@master//logo.png</url><title>只听一种声音，中国好声音。</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Fri, 08 May 2020 09:04:54 +0806</lastBuildDate><pubDate>Fri, 08 May 2020 09:04:54 +0806</pubDate><item><title>我的第一篇文章</title><link>/archives/my-first-awesome-post/</link><description>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！
 &lt;figure style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/sanmingmrx/sanmingmrx.github.io@master/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" /&gt;&lt;figcaption&gt;幽灵公主剧照&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</description><author>songdiancan@gmail.com (&lt;填写你的名字&gt;)</author><guid isPermaLink="true">/archives/my-first-awesome-post/</guid><pubDate>Tue, 17 Dec 2019 20:34:00 +0806</pubDate></item><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
+</description><author>songdiancan@gmail.com (&lt;填写你的名字&gt;)</author><guid isPermaLink="true">/archives/my-first-awesome-post/</guid><pubDate>Tue, 17 Dec 2019 20:34:00 +0806</pubDate></item><item><title>我的第二篇文章</title><link>/archives/my-first-awesome-post/</link><description>&lt;p&gt;&lt;a href="http://www.baidu.com" title="Permalink to 百度一下，你就知道"&gt;Source&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;百度一下，你就知道&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://www.baidu.com/"&gt;百度首页&lt;/a&gt;&lt;a href=""&gt;设置__&lt;/a&gt;&lt;a href="https://passport.baidu.com/v2/?login&amp;amp;tpl=mn&amp;amp;u=http%3A%2F%2Fwww.baidu.com%2F&amp;amp;sms=5"&gt;登录&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_1"&gt;抗击肺炎&lt;/a&gt;&lt;a href="http://news.baidu.com"&gt;新闻&lt;/a&gt;&lt;a href="https://www.hao123.com"&gt;hao123&lt;/a&gt;&lt;a href="http://map.baidu.com"&gt;地图&lt;/a&gt;&lt;a href="https://haokan.baidu.com/?sfrom=baidu-top"&gt;视频&lt;/a&gt;&lt;a href="http://tieba.baidu.com"&gt;贴吧&lt;/a&gt;&lt;a href="http://xueshu.baidu.com"&gt;学术&lt;/a&gt;&lt;a href="https://passport.baidu.com/v2/?login&amp;amp;tpl=mn&amp;amp;u=http%3A%2F%2Fwww.baidu.com%2F&amp;amp;sms=5"&gt;登录&lt;/a&gt;&lt;a href="http://www.baidu.com/gaoji/preferences.html"&gt;设置&lt;/a&gt;&lt;a href="http://www.baidu.com/more/"&gt;更多产品&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 104.65116279069767" &gt;&lt;img width="540" height="258" src="http://www.baidu.com/img/bd_logo1.png" /&gt;&lt;/figure&gt;&lt;figure style="flex: 104.65116279069767" &gt;&lt;img width="540" height="258" src="http://www.baidu.com/img/bd_logo1.png" /&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 153.94736842105263" &gt;&lt;img width="117" height="38" src="http://www.baidu.com/img/baidu_jgylogo3.gif" /&gt;&lt;figcaption&gt;到百度首页&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure style="flex: 153.03030303030303" &gt;&lt;img width="202" height="66" src="http://www.baidu.com/img/baidu_resultlogo%402.png" /&gt;&lt;figcaption&gt;到百度首页&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;输入法&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=""&gt;手写&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=""&gt;拼音&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=""&gt;关闭&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://www.baidu.com/cache/sethelp/index.html"&gt;设为首页&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://home.baidu.com"&gt;关于百度&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://ir.baidu.com"&gt;About Baidu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://e.baidu.com/?refer=888"&gt;百度推广&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.baidu.com/duty"&gt;使用百度前必读&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://help.baidu.com/newadd?prod_id=1&amp;amp;category=4"&gt;意见反馈&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://help.baidu.com"&gt;帮助中心&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;©2020 Baidu (京)-经营性-2017-0020&lt;a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001"&gt;京公网安备11000002000001号&lt;/a&gt;京ICP证030173号&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;网页&lt;/strong&gt; &lt;a href="http://www.baidu.com/s?rtt=1&amp;amp;bsst=1&amp;amp;cl=2&amp;amp;tn=news&amp;amp;word="&gt;资讯&lt;/a&gt; &lt;a href="http://tieba.baidu.com/f?kw=&amp;amp;fr=wwwt"&gt;贴吧&lt;/a&gt; &lt;a href="http://zhidao.baidu.com/q?ct=17&amp;amp;pn=0&amp;amp;tn=ikaslist&amp;amp;rn=10&amp;amp;word=&amp;amp;fr=wwwt"&gt;知道&lt;/a&gt; &lt;a href="http://music.taihe.com/search?fr=ps&amp;amp;ie=utf-8&amp;amp;key="&gt;音乐&lt;/a&gt; &lt;a href="http://image.baidu.com/search/index?tn=baiduimage&amp;amp;ps=1&amp;amp;ct=201326592&amp;amp;lm=-1&amp;amp;cl=2&amp;amp;nc=1&amp;amp;ie=utf-8&amp;amp;word="&gt;图片&lt;/a&gt; &lt;a href="http://v.baidu.com/v?ct=301989888&amp;amp;rn=20&amp;amp;pn=0&amp;amp;db=0&amp;amp;s=25&amp;amp;ie=utf-8&amp;amp;word="&gt;视频&lt;/a&gt; &lt;a href="http://map.baidu.com/m?word=&amp;amp;fr=ps01000"&gt;地图&lt;/a&gt; &lt;a href="http://wenku.baidu.com/search?word=&amp;amp;lm=0&amp;amp;od=0&amp;amp;ie=utf-8"&gt;文库&lt;/a&gt; &lt;a href="http://www.baidu.com/more/"&gt;更多»&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下载百度APP&lt;/p&gt;
+&lt;p&gt;有事搜一搜  没事看一看&lt;/p&gt;
+</description><author>songdiancan@gmail.com (songdc)</author><guid isPermaLink="true">/archives/my-first-awesome-post/</guid><pubDate>Tue, 17 Dec 2019 20:34:00 +0806</pubDate></item><item><title>Hello World!</title><link>/archives/typography/</link><description>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h2&gt;L2 Heading&lt;/h2&gt;
 &lt;h3&gt;L3 Heading&lt;/h3&gt;
 &lt;h4&gt;L4 Heading&lt;/h4&gt;
 &lt;h5&gt;L5 Heading&lt;/h5&gt;
