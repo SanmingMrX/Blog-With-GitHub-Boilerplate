@@ -14,12 +14,12 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "sanmingmrx/sanmingmrx.github.io@master"
 }
 
 # 站点设置
-site_name = "songdc"
+site_name = "SanmingMrX"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "鸡毛土人"
@@ -29,11 +29,6 @@ description = "只听一种声音，中国好声音。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
     {
         "name": "三無計劃",
         "url": "https://www.imalan.cn",
@@ -61,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/NanjingMrLi",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/SanmingMrX",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/7420741870/",
         "icon": "gi gi-weibo"
     }
 ]
