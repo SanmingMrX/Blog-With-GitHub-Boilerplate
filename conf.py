@@ -11,7 +11,7 @@ archives_page_size = 20
 template = {
     "name": "Theme-VOID",
     "type": "local",
-    "path": "../Typecho-Theme-VOID-3.50"
+    "path": "../VOID"
 }
 enable_jsdelivr = {
     "enabled": True,
