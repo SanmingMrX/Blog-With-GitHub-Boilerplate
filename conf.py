@@ -24,17 +24,17 @@ site_logo = "${static_prefix}/logo.png"
 site_build_date = "2020-05-08T17:00+08:00"
 author = "鸡毛土人"
 email = "songdiancan@gmail.com"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://sanmingmrx.github.io/"
 description = "凡我所爱者，必如热血中的病毒，在人群中感染流布。--by黄章晋"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', 'Galileo', 'blog', '博客']
 language = 'zh-CN'
-external_links = [
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
-    }
-]
+# external_links = [
+#     {
+#         "name": "三無計劃",
+#         "url": "https://www.imalan.cn",
+#         "brief": "熊猫小A的主页。"
+#     }
+# ]
 nav = [
     {
         "name": "首页",
