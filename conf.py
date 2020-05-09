@@ -9,7 +9,7 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Theme-VOID",
+    "name": "VOID",
     "type": "local",
     "path": "../VOID"
 }
