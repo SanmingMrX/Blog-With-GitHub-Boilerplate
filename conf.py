@@ -5,6 +5,7 @@
 # For Maverick
 site_prefix = "/"
 source_dir = "../src/"
+static_prefix = "../src/static"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
@@ -20,8 +21,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "只听一种声音，中国好声音。"
-# site_logo = "${static_prefix}/logo.png"
-site_logo = "./static/logo.png"
+site_logo = "${static_prefix}/logo.png"
 site_build_date = "2020-05-08T17:00+08:00"
 author = "鸡毛土人"
 email = "songdiancan@gmail.com"
