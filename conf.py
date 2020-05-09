@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Kepler",
+    "name": "Galileo",
     "type": "local",
-    "path": "../Kepler"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": True,
@@ -26,7 +26,7 @@ author = "鸡毛土人"
 email = "songdiancan@gmail.com"
 author_homepage = "https://sanmingmrx.github.io/"
 description = "凡我所爱者，必如热血中的病毒，在人群中感染流布。--by黄章晋"
-key_words = ['Maverick', 'Kepler', 'blog', '博客']
+key_words = ['Maverick', 'Galileo', 'blog', '博客']
 language = 'zh-CN'
 # external_links = [
 #     {
